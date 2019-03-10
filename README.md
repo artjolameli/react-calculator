@@ -7,6 +7,7 @@ You'll be creating a functional calculator using `state` and `onClick` handlers.
 
 ![](./images/CalculatorBefore.png)
 
+
 ![](./images/CalculatorAfter.png)
 
 
@@ -16,6 +17,7 @@ You'll be creating a functional calculator using `state` and `onClick` handlers.
 - Make sure it's a good looking calculator - aka use the styling you've been practicing.
 - Consider all prior feedback you've gotten and implement it into this app.
 - Use lots of comments in your code to explain what you're doing.
+- You can use `onChange` to update the value as they are added, or you can run the function `onSubmit`
 
 **Reminders:**
 
