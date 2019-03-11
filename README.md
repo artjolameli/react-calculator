@@ -30,3 +30,6 @@ You'll be creating a functional calculator using `state` and `onClick` handlers.
 - Create a list that documents all calculations done before a page is refreshed.
 - Create a reusable input component that will take in props and utilize them multiple times. 
 - Implement React Hooks
+
+**Super Stretchy Ninja Goal**
+- Make buttons for all numbers and operations, like a traditional calculator!
