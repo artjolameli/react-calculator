@@ -13,23 +13,25 @@ You'll be creating a functional calculator using `state` and `onClick` handlers.
 
 **Requirements:**
 
-- You must build an app using `create-react-app` that takes in two values and returns the proper value.
+- You must use `create-react-app` : **NOTE: You will need to delete the .git folder inside your React app to push it back up to this repo**
+- You must build an app that takes in two values and returns the proper value.
 - Make sure it's a good looking calculator - aka use the styling you've been practicing.
 - Consider all prior feedback you've gotten and implement it into this app.
 - Use lots of comments in your code to explain what you're doing.
 - You can use `onChange` to update the value as they are added, or you can run the function `onSubmit`
 
-**Reminders:**
-
-- Be consistent in your code - consider using a linter.
-- Use React 16 and ES6 syntax
-- Consider using a UI library. You're not limited to `reactstrap`!
 
 **Stretch Goals:**
+
+![banana stretch gif](https://media.giphy.com/media/OmQ9fnEshXtOU/giphy.gif)
+
 - Create buttons that add, subtract, divide and multiply.
 - Create a list that documents all calculations done before a page is refreshed.
 - Create a reusable input component that will take in props and utilize them multiple times. 
 - Implement React Hooks
 
 **Super Stretchy Ninja Goal**
+
+![ninja gif](https://media.giphy.com/media/ErdfMetILIMko/giphy.gif)
+
 - Make buttons for all numbers and operations, like a traditional calculator!
