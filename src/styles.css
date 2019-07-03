@@ -1,0 +1,39 @@
+
+body {
+
+    display: inline-flex;
+    justify-content: center;
+    border: 5px rgb(4, 80, 33) solid;
+    margin-top: 30%;
+    padding: 50px;
+    flex-flow: row wrap;
+    border-radius: 40px;
+    background-color: rgb(77, 141, 201);
+    margin-right: 20% ;
+    background-attachment: fixed;
+
+  }
+
+  .input1 {
+    margin-left: 0% ;
+    height: 30px;
+  }
+
+  .input2 {
+    margin-left: 61% ;
+    height: 30px;
+
+
+  }
+  
+  button {
+    line-height: 1.5rem;
+    font-size: 1rem;
+    margin: 1rem;
+    padding: 0 2rem;
+    font-weight: bold;
+    height: 30px;
+    width: 8%;
+
+  }
+  
